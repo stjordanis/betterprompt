@@ -2,7 +2,7 @@
 
 Welcome to the betterprompt ReadME. Betterprompt is a python library that provides a powerful way to measure the perplexity of text using the OpenAI GPT-3 API. With this library you can easily measure the complexity of natural language text!
 
-Our work is inspired by this paper [*Demystifying Prompts in Language Models via Perplexity Estimation*](https://arxiv.org/pdf/2212.04037.pdf) which showed that 
+Our work is inspired by this paper [**Demystifying Prompts in Language Models via Perplexity Estimation**](https://arxiv.org/pdf/2212.04037.pdf) which showed that 
 
 >Over a wide range of tasks, we show that the lower the perplexity of the prompt (i.e. closer to zero) is, the better the prompt is able to perform the task.
 
