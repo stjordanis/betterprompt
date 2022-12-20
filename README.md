@@ -1,4 +1,4 @@
-# betterprompt ReadME
+# betterprompt 🧪🔬
 
 ⚡ Test suite for LLM prompts before pushing them to PROD ⚡
 
