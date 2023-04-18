@@ -19,7 +19,7 @@ Once installed, you can import it into your python project by running the follow
 
 ## Using betterprompt
 
-betterprompt currently provides 1 main functions - `calculate_perplexity`. 
+betterprompt currently provides 1 main function - `calculate_perplexity`. 
 
 The `calculate_perplexity` function takes in a prompt as a string and calculates the perplexity of the text using the OpenAI GPT-3 API. It returns the perplexity as a float. 
 
